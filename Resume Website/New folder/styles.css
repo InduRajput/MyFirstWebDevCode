@@ -1,0 +1,58 @@
+body
+{
+  margin: 0;
+}
+.frnt_pg
+{
+  padding-top:150px;
+  text-align:center;
+  background-color:#EAF6F6;
+
+}
+.Myname
+{
+  color: #66BFBF;
+  font-family: 'Gorditas', cursive;
+  font-size: 60px;
+  padding-bottom: 30px;
+}
+.Desig
+{
+color: #66BFBF;
+font-size: 50px;
+}
+.underln
+{
+color: #66BFBF;
+text-decoration: underline;
+}
+.top_cloud
+{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
+
+.bottom_cloud
+{
+  position: relative;
+  bottom: 600px;
+}
+.mountain
+{
+  text-align: center;
+  width:700px;
+}
+
+.content
+{
+  width: 100%;
+}
+.profilepic
+{
+  border-radius: 50%;
+  position: relative;
+left:600px;
+height:200px;
+ width:150px;
+}
